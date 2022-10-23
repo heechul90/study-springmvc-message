@@ -22,7 +22,9 @@
     - 웹 애플리케이션에 국제화 적용하기
     - 정리
 
-[다음으로](https://github.com/heechul90/study-springmvc-validation)
+[[이전으로]](https://github.com/heechul90/study-springmvc-form) [[다음으로]](https://github.com/heechul90/study-springmvc-validation)
+
+[[복습하기/적용하기]](https://github.com/heechul90/project-hellcoding)
 
 ### 오류 사항
 - properties 한글 깨질때
